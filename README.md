@@ -37,6 +37,6 @@ An online Pet House built with Django, HTML, CSS, JavaScript, and MySQL.
 Let's Connect!
 📧 Email: mehedi89345506@gmail.com
 
-💼 LinkedIn: [Your LinkedIn Profile]
+💼 LinkedIn: [linkedin.com/in/mehedi-hasan-241291209]
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 🚀
