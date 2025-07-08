@@ -1,38 +1,34 @@
-Hi there, I'm Mehedi Hasan! 👋
-About Me
+👋 Hi there, I'm Mehedi Hasan!
+🔎 About Me
 🌱 I’m currently learning Python, Machine Learning, and Deep Learning.
+💻 I’m experienced in C, C++, Java, Python (Django), Flutter, Dart, Firebase, Kotlin, MySQL, HTML, CSS, and JavaScript.
+👀 I’m passionate about building innovative projects and exploring emerging technologies.
+💞️ I’m open to collaborating on open-source projects, full-stack web development, and AI/ML initiatives.
+📫 How to reach me: mehedi89345506@gmail.com
 
-💻 I’m experienced in C, C++, Java, Python (Django), MySQL, HTML, CSS, and JavaScript.
-
-👀 I’m interested in building innovative projects and exploring new technologies.
-
-💞️ I’m looking to collaborate on open-source projects, web development, and AI/ML initiatives.
-
-📫 How to reach me: mehedi89345506@gmail.com.
-
-Skills
-Programming Languages: C, C++, Java, Python<br>
+💡 Skills
+Programming Languages: C, C++, Java, Python, Dart, Kotlin
 Web Development: Django, HTML, CSS, JavaScript
+Mobile Development: Flutter, Firebase
+Database: MySQL
+Tools & Technologies: Git, VS Code, Jupyter Notebook, Android Studio
 
-Database: MySQL<br>
-Tools & Technologies: Git, VS Code, Jupyter Notebook
-
-Projects
-Here are some of my projects:
-
-Agro Farm Management System 🌱<br>
+🚀 Projects
+Agro Farm Management System 🌱
 A full-stack web app for managing farm operations using Django, HTML, CSS, JavaScript, and MySQL.
 
-Book Shop 📚<br>
+Book Shop 📚
 An online book store built with Django, HTML, CSS, JavaScript, and MySQL.
 
-Pet House 🏠🐾<br>
+Pet House 🏠🐾
 An online Pet House built with Django, HTML, CSS, JavaScript, and MySQL.
 
-Let's Connect!
-<br>
+Tour Guide App 🗺️
+A Flutter-based mobile application that guides tourists to nearby places, with Firebase integration for real-time data and user authentication.
+
+Book Oasis App 📖📱
+A Flutter-based mobile application that allows users to browse, search, and explore books in an intuitive UI, with Firebase backend for authentication and book data management.
+
+🤝 Let's Connect!
 📧 Email: mehedi89345506@gmail.com
-
-💼 LinkedIn: [linkedin.com/in/mehedi-hasan-241291209](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfyMU0HY6Svy9HVzxGfcAOg%3D%3D)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 🚀
+💼 LinkedIn: linkedin.com/in/mehedi-hasan-241291209
