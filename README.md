@@ -88,18 +88,35 @@
 
 ### 📊 Profile Statistics
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MehediHasan-482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MehediHasan-482&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<!-- GitHub Stats Card -->
+<a href="https://github.com/MehediHasan-482">
+  <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MehediHasan-482&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</a>
 
+<!-- GitHub Streak Card -->
+<a href="https://github.com/MehediHasan-482">
+  <img width="48%" src="https://denvercoder1-github-readme-streak-stats.vercel.app/?user=MehediHasan-482&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+</a>
+
+<br/>
 <br/>
 
 ### 📈 Most Used Languages
 
-<img width="40%" src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=MehediHasan-482&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+<!-- Top Languages Card -->
+<a href="https://github.com/MehediHasan-482">
+  <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-482&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</a>
+
+<br/>
+<br/>
 
 ### 🏆 GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<!-- Trophies Card -->
+<a href="https://github.com/MehediHasan-482">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 </div>
 
