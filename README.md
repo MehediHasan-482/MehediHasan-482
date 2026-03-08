@@ -8,8 +8,8 @@
   <a href="https://twitter.com/mehedi_kanok" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mehedi_kanok?logo=twitter&style=for-the-badge&color=1DA1F2" alt="twitter" />
   </a>
-  <a href="https://github.com/MdMehediHKanok" target="_blank">
-    <img src="https://img.shields.io/github/followers/MdMehediHKanok?label=Follow%20Me&style=for-the-badge&logo=github&color=181717" alt="github" />
+  <a href="https://github.com/MehediHasan-482" target="_blank">
+    <img src="https://img.shields.io/github/followers/MehediHasan-482?label=Follow%20Me&style=for-the-badge&logo=github&color=181717" alt="github" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 <a href="https://www.facebook.com/mehedi.kanok" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
 </a>
-<a href="https://github.com/MdMehediHKanok" target="_blank">
+<a href="https://github.com/MehediHasan-482" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="mailto:mehedi.h.kanok@gmail.com" target="_blank">
@@ -85,39 +85,49 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25" align="center"/> GitHub Stats
 
 <div align="center">
-  
+
 ### 📊 Profile Statistics
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MdMehediHKanok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdMehediHKanok&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MehediHasan-482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MehediHasan-482&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/>
 
 ### 📈 Most Used Languages
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMehediHKanok&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-482&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 
 ### 🏆 GitHub Trophies
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MdMehediHKanok&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 <br/>
 
-## <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" width="30" align="center"/> Contribution Graph
+## 📅 Live Contribution Graph
+
+<div align="center">
+
+[![Mehedi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MehediHasan-482&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdMehediHKanok/MdMehediHKanok/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdMehediHKanok/MdMehediHKanok/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MdMehediHKanok/MdMehediHKanok/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <br/>
 
-## <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="30" align="center"/> Random Dev Quote
+## 💬 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600"/>
@@ -126,15 +136,15 @@
 <br/>
 
 <div align="center">
-  
+
 ### 💖 Show some love by starring ⭐ my repositories!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <br/>
 <br/>
 
-<img src="https://profile-counter.glitch.me/MdMehediHKanok/count.svg" alt="Profile Visitors" />
+<img src="https://profile-counter.glitch.me/MehediHasan-482/count.svg" alt="Profile Visitors" />
 
 </div>
