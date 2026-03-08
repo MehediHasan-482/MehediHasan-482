@@ -93,10 +93,10 @@
   <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MehediHasan-482&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </a>
 
-<!-- GitHub Streak Card -->
+<!-- GitHub Streak Card 
 <a href="https://github.com/MehediHasan-482">
   <img width="48%" src="https://denvercoder1-github-readme-streak-stats.vercel.app/?user=MehediHasan-482&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-</a>
+</a>-->
 
 <br/>
 <br/>
@@ -113,10 +113,10 @@
 
 ### 🏆 GitHub Trophies
 
-<!-- Trophies Card -->
+<!-- Trophies Card 
 <a href="https://github.com/MehediHasan-482">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
+</a> -->
 
 </div>
 
