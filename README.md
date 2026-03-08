@@ -95,7 +95,7 @@
 
 ### 📈 Most Used Languages
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan-482&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=MehediHasan-482&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 
 ### 🏆 GitHub Trophies
 
