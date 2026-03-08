@@ -132,7 +132,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+<!--## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -140,11 +140,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div>-->
 
 <br/>
 
-## 💬 Random Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600"/>
@@ -160,8 +160,8 @@
 <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <br/>
-<br/>
+<!-- <br/>
 
-<img src="https://profile-counter.glitch.me/MehediHasan-482/count.svg" alt="Profile Visitors" />
+<img src="https://profile-counter.glitch.me/MehediHasan-482/count.svg" alt="Profile Visitors" /> -->
 
 </div>
