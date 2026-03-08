@@ -38,39 +38,7 @@ Git • VS Code • Android Studio • Jupyter Notebook • Firebase Console
 ---
 
 ### 🚀 Projects
-
-#### 🌱 Agro Farm Management System
-A full-stack web app for managing farm operations.  
-
-**Tech Stack:** Django • HTML • CSS • JavaScript • MySQL
-
----
-
-#### 📚 Book Shop
-An online bookstore platform for browsing and purchasing books.  
-
-**Tech Stack:** Django • HTML • CSS • JavaScript • MySQL
-
----
-
-#### 🐾 Pet House
-An online Pet House platform to manage pet services and products.  
-
-**Tech Stack:** Django • HTML • CSS • JavaScript • MySQL
-
----
-
-#### 🗺️ Tour Guide App
-A **Flutter mobile app** that guides tourists to nearby places with real-time data and authentication.  
-
-**Tech Stack:** Flutter • Firebase
-
----
-
-#### 📖 Book Oasis App
-A **Flutter mobile app** for exploring, searching, and managing books.  
-
-**Tech Stack:** Flutter • Firebase
+- Telecommunication Company (Metal), Proshika, Bangladesh EPZ (BEPZA), Pet House, Book Shop, Tour Guide
 
 ---
 
