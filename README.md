@@ -23,8 +23,8 @@
 - 🌱 I'm currently learning **Advanced Flutter & State Management (Riverpod, Bloc)**
 - 👯 I'm looking to collaborate on **Open Source Flutter Projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, Mobile App Development**
-- 📫 How to reach me **mehedi.h.kanok@gmail.com**
-- 📄 Know about my experiences **[LinkedIn Profile](https://www.linkedin.com/in/mehedi-kanok/)**
+- 📫 How to reach me **mehedi89345506@gmail.com**
+- 📄 Know about my experiences **[LinkedIn Profile]([https://www.linkedin.com/in/mehedi-kanok/](https://www.linkedin.com/in/mehedihasan482?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))**
 - ⚡ Fun fact **I love turning ideas into beautiful mobile apps! ✨**
 
 <br/>
