@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" align="center"/> About Me
 
-- 🔭 I'm currently working on **Flutter & Firebase Projects**
+- 🔭 I'm currently working on **Flutter & Rest API Projects**
 - 🌱 I'm currently learning **Advanced Flutter & State Management (Riverpod, Bloc)**
 - 👯 I'm looking to collaborate on **Open Source Flutter Projects**
 - 💬 Ask me about **Flutter, Dart, Firebase, Mobile App Development**
