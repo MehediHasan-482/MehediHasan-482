@@ -2,8 +2,8 @@ name: Generate GitHub Trophies
 
 on:
   schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
+    - cron: "0 3 * * *"   # প্রতিদিন সকাল ৩টায়
+  workflow_dispatch:       # ম্যানুয়াল রানের সুবিধা
 
 jobs:
   generate:
@@ -15,7 +15,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy using curl
+      - name: Create images directory
+        run: mkdir -p images
+
+      - name: Generate trophy SVG
         run: |
           curl -s "https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" > images/trophy.svg
 
