@@ -1,34 +1,31 @@
-name: Generate GitHub Trophies SVG
+name: Generate GitHub Trophies
 
 on:
   schedule:
-    # প্রতি সপ্তাহে রবিবার রাত ১২টায় রান হবে
-    - cron: '0 0 * * 0'
-  workflow_dispatch:  # ম্যানুয়ালি রান করার জন্য
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate-trophies:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate trophies SVG
-        uses: ryo-ma/github-profile-trophy@v1
-        with:
-          github_user: MehediHasan-482
-          output: output/github-trophies.svg
-          theme: radical
-          no_frame: true
-          row: 1
-          column: 7
-          margin_w: 15
-          margin_h: 15
+      - name: Create images directory
+        run: mkdir -p images
+
+      - name: Generate trophy using Python
+        run: |
+          curl -s "https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" > images/trophy.svg
 
       - name: Commit and push if changed
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/github-trophies.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update trophies"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.github.com"
+          git add images/trophy.svg
+          git diff --staged --quiet || git commit -m "chore: update trophies [skip ci]"
           git push
