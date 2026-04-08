@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create images directory
-        run: mkdir -p images
+        run: if [ ! -d "images" ]; then mkdir -p images;
 
       - name: Generate trophy using curl
         run: |
