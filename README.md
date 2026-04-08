@@ -52,22 +52,47 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center"/> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center"/> Programming Languages
+
+<div align="left">
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center"/> Frameworks & Technologies
 
 <div align="left">
 
 ### **📱 Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### **🌐 Web Development**
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### **🤖 AI & Machine Learning**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **☁️ Backend & Database**
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%2520sql%2520server&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### **🎨 Design & Tools**
@@ -94,10 +119,10 @@
   <img width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MehediHasan-482&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </a>
 
-<!-- GitHub Streak Card 
+<!-- GitHub Streak Card -->
 <a href="https://github.com/MehediHasan-482">
   <img width="48%" src="https://denvercoder1-github-readme-streak-stats.vercel.app/?user=MehediHasan-482&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-</a>-->
+</a>
 
 <br/>
 <br/>
@@ -114,10 +139,10 @@
 
 ### 🏆 GitHub Trophies
 
-<!-- Trophies Card 
+<!-- Trophies Card -->
 <a href="https://github.com/MehediHasan-482">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MehediHasan-482&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a> -->
+</a>
 
 </div>
 
@@ -133,7 +158,7 @@
 
 <br/>
 
-<!--## 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -141,7 +166,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>-->
+</div>
 
 <br/>
 
@@ -161,8 +186,8 @@
 <em><b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <br/>
-<!-- <br/>
+<br/>
 
-<img src="https://profile-counter.glitch.me/MehediHasan-482/count.svg" alt="Profile Visitors" /> -->
+<img src="https://profile-counter.glitch.me/MehediHasan-482/count.svg" alt="Profile Visitors" />
 
 </div>
