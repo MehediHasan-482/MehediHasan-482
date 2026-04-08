@@ -15,8 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create images directory
-        run: mkdir -p images
+      #- name: Create images directory
+        #run: mkdir -p images
 
       - name: Generate trophy SVG
         run: |
