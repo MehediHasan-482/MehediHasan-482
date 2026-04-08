@@ -1,0 +1,34 @@
+name: Generate GitHub Trophies SVG
+
+on:
+  schedule:
+    # প্রতি সপ্তাহে রবিবার রাত ১২টায় রান হবে
+    - cron: '0 0 * * 0'
+  workflow_dispatch:  # ম্যানুয়ালি রান করার জন্য
+
+jobs:
+  generate-trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate trophies SVG
+        uses: ryo-ma/github-profile-trophy@v1
+        with:
+          github_user: MehediHasan-482
+          output: output/github-trophies.svg
+          theme: radical
+          no_frame: true
+          row: 1
+          column: 7
+          margin_w: 15
+          margin_h: 15
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/github-trophies.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update trophies"
+          git push
