@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create images directory
-        run: mkdir -p images
+        run: mkdir -p output
 
       - name: Generate trophy using Python
         run: |
