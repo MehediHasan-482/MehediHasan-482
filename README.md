@@ -139,11 +139,14 @@
 
 ### 🏆 GitHub Trophies
 
-<!-- Trophies Card -->
+<!-- Auto-generated trophies (updates weekly) -->
 <a href="https://github.com/MehediHasan-482">
-  <img width="100%" src="https://raw.githubusercontent.com/MehediHasan-482/MehediHasan-482/output/github-trophies.svg" alt="GitHub Trophies" />
+  <img width="100%" src="output/github-trophies.svg" alt="GitHub Trophies" />
 </a>
 
+<p align="center">
+  <i>🏆 Trophies auto-update every Sunday</i>
+</p>
 </div>
 
 <br/>
