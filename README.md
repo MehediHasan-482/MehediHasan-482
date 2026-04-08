@@ -139,9 +139,8 @@
 
 ### 🏆 GitHub Trophies
 
-<!-- Auto-generated trophies (updates weekly) -->
 <a href="https://github.com/MehediHasan-482">
-  <img width="100%" src="output/github-trophies.svg" alt="GitHub Trophies" />
+  <img width="100%" src="images/trophy.svg" alt="GitHub Trophies" />
 </a>
 
 <p align="center">
